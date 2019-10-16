@@ -5,7 +5,12 @@
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
-    "react-scripts": "3.1.2"
+    "react-redux": "^7.1.1",
+    "react-scripts": "3.1.2",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0",
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,5 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "why-did-you-update": "^1.0.6"
   }
 }
